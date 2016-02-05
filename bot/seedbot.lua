@@ -226,7 +226,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {198828890,145266153},--Sudo users
+    sudo_users = {70480064,158492446,168580609},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
@@ -408,7 +408,8 @@ will return group ban list
 
 **U can use both "/" and "!" 
 
-
+ by : omidtarh
+ admins: حسن کبیر سروش ترک امید ویزارد
 *Only owner and mods can add bots in group
 
 
