@@ -409,7 +409,7 @@ will return group ban list
 **U can use both "/" and "!" 
 
  by : omidtarh
- admins: حسن کبیر سروش ترک امید ویزارد
+ admins  سروس ترک
 *Only owner and mods can add bots in group
 
 
